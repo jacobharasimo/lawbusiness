@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Service-Id-Version: Law Business 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-06 11:41+0200\n"
+"PO-Revision-Date: 2013-11-06 11:42+0200\n"
+"Last-Translator: cmsmasters <cmsmstrs@gmail.com>\n"
+"Language-Team: cmsmasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#: 404.php:34
+msgid "Sitemap"
+msgstr ""
+
+#: archive.php:40
+msgid "No posts found"
+msgstr ""
+
+#: blog.php:63
+#: page.php:56
+#: services.php:101
+msgid "Pages"
+msgstr ""
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:27
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments"
+msgstr ""
+
+#: comments.php:35
+#: comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40
+#: comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+#: header.php:538
+#: header.php:543
+msgid "Name"
+msgstr ""
+
+#: comments.php:80
+msgid "Email"
+msgstr ""
+
+#: comments.php:84
+msgid "Website"
+msgstr ""
+
+#: comments.php:96
+msgid "You must be"
+msgstr ""
+
+#: comments.php:96
+msgid "logged in"
+msgstr ""
+
+#: comments.php:96
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:97
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:97
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:97
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:98
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:102
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:103
+msgid "Leave your comment to"
+msgstr ""
+
+#: comments.php:104
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:121
+msgid "None"
+msgstr ""
+
+#: header.php:395
+msgid "Search Results for"
+msgstr ""
+
+#: header.php:398
+msgid "Daily Archives"
+msgstr ""
+
+#: header.php:400
+msgid "Monthly Archives"
+msgstr ""
+
+#: header.php:402
+msgid "Yearly Archives"
+msgstr ""
+
+#: header.php:404
+msgid "Category Archives"
+msgstr ""
+
+#: header.php:406
+msgid "Tag Archives"
+msgstr ""
+
+#: header.php:410
+msgid "Author Archives"
+msgstr ""
+
+#: header.php:414
+msgid "Testimonial Archives"
+msgstr ""
+
+#: header.php:416
+msgid "Services Archives"
+msgstr ""
+
+#: header.php:418
+msgid "Website Archives"
+msgstr ""
+
+#: header.php:545
+#: header.php:550
+msgid "Date"
+msgstr ""
+
+#: header.php:555
+#: header.php:556
+msgid "Filter"
+msgstr ""
+
+#: header.php:560
+msgid "All"
+msgstr ""
+
+#: image.php:26
+msgid "Edit Media"
+msgstr ""
+
+#: image.php:28
+msgid "Published"
+msgstr ""
+
+#: image.php:28
+msgid "at"
+msgstr ""
+
+#: image.php:28
+msgid "in"
+msgstr ""
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr ""
+
+#: search.php:41
+msgid "Nothing found. Try another search?"
+msgstr ""
+
+#: search.php:86
+msgid "This page contains your query"
+msgstr ""
+
+#: searchform.php:16
+msgid "Enter keywords"
+msgstr ""
+
+#: single-service.php:60
+#: single.php:161
+msgid "About author"
+msgstr ""
+
+#: single-service.php:130
+msgid "Service details"
+msgstr ""
+
+#: single-service.php:169
+msgid "like it"
+msgstr ""
+
+#: single-service.php:175
+#: single-testimonial.php:102
+#: single.php:73
+msgid "Tweet"
+msgstr ""
+
+#: single-service.php:210
+#: single-testimonial.php:137
+#: single.php:108
+msgid "Pin It"
+msgstr ""
+
+#: single-service.php:249
+#: single-testimonial.php:176
+#: single.php:147
+msgid "More sharing options"
+msgstr ""
+
+#: single-testimonial.php:99
+#: single.php:70
+msgid "Like this post?"
+msgstr ""
+
+#: sitemap.php:76
+msgid "Website Pages"
+msgstr ""
+
+#: sitemap.php:89
+msgid "Blog Archives by Categories"
+msgstr ""
+
+#: sitemap.php:110
+msgid "Blog Archives by Tags"
+msgstr ""
+
+#: sitemap.php:124
+msgid "Blog Archives by Month"
+msgstr ""
+
+#: sitemap.php:141
+msgid "Services Archives by Categories"
+msgstr ""
+
+#: sitemap.php:158
+msgid "Services Archives by Tags"
+msgstr ""
+
+#: framework/function/template-functions.php:535
+msgid "Categories"
+msgstr ""
+
+#: framework/function/template-functions.php:326
+#: framework/function/template-functions.php:357
+#: framework/function/template-functions.php:663
+msgid "Tags"
+msgstr ""
+
+#: framework/class/shortcodes.php:729
+#: framework/class/shortcodes.php:742
+#: framework/class/shortcodes.php:807
+#: framework/class/shortcodes.php:820
+#: framework/class/shortcodes.php:1121
+#: framework/class/shortcodes.php:1187
+msgid "Play"
+msgstr ""
+
+#: framework/class/shortcodes.php:743
+#: framework/class/shortcodes.php:821
+#: framework/class/shortcodes.php:1122
+#: framework/class/shortcodes.php:1188
+msgid "Pause"
+msgstr ""
+
+#: framework/class/shortcodes.php:744
+#: framework/class/shortcodes.php:822
+#: framework/class/shortcodes.php:1123
+#: framework/class/shortcodes.php:1189
+msgid "Stop"
+msgstr ""
+
+#: framework/class/shortcodes.php:750
+#: framework/class/shortcodes.php:830
+#: framework/class/shortcodes.php:1129
+#: framework/class/shortcodes.php:1197
+msgid "Mute"
+msgstr ""
+
+#: framework/class/shortcodes.php:751
+#: framework/class/shortcodes.php:831
+#: framework/class/shortcodes.php:1130
+#: framework/class/shortcodes.php:1198
+msgid "Unmute"
+msgstr ""
+
+#: framework/class/shortcodes.php:752
+#: framework/class/shortcodes.php:832
+msgid "Full Screen"
+msgstr ""
+
+#: framework/class/shortcodes.php:753
+#: framework/class/shortcodes.php:833
+msgid "Restore Screen"
+msgstr ""
+
+#: framework/class/shortcodes.php:763
+#: framework/class/shortcodes.php:843
+#: framework/class/shortcodes.php:1140
+#: framework/class/shortcodes.php:1208
+msgid "Update Required"
+msgstr ""
+
+#: framework/class/shortcodes.php:764
+#: framework/class/shortcodes.php:844
+#: framework/class/shortcodes.php:1141
+#: framework/class/shortcodes.php:1209
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr ""
+
+#: framework/class/shortcodes.php:764
+#: framework/class/shortcodes.php:844
+#: framework/class/shortcodes.php:1141
+#: framework/class/shortcodes.php:1209
+msgid "Flash plugin"
+msgstr ""
+
+#: framework/class/shortcodes.php:823
+#: framework/class/shortcodes.php:1190
+msgid "Previous"
+msgstr ""
+
+#: framework/class/shortcodes.php:824
+#: framework/class/shortcodes.php:1191
+msgid "Next"
+msgstr ""
+
+#: framework/class/widgets.php:20
+msgid "Your advertisement"
+msgstr ""
+
+#: framework/class/widgets.php:32
+msgid "Advertisement"
+msgstr ""
+
+#: framework/class/widgets.php:241
+msgid "Your contact information"
+msgstr ""
+
+#: framework/class/widgets.php:606
+msgid "Facebook"
+msgstr ""
+
+#: framework/class/widgets.php:861
+msgid "Flickr"
+msgstr ""
+
+#: framework/class/widgets.php:886
+msgid "More flickr images"
+msgstr ""
+
+#: framework/class/widgets.php:953
+msgid "Your HTML5 Audio"
+msgstr ""
+
+#: framework/class/widgets.php:1138
+msgid "Your HTML5 Video"
+msgstr ""
+
+#: framework/class/widgets.php:1346
+msgid "Latest Services"
+msgstr ""
+
+#: framework/class/widgets.php:1550
+msgid "Popular Services"
+msgstr ""
+
+#: framework/class/widgets.php:1883
+#: framework/class/widgets.php:1889
+#: framework/class/widgets.php:1898
+#: framework/class/widgets.php:1907
+#: framework/class/widgets.php:2001
+#: framework/class/widgets.php:2007
+#: framework/class/widgets.php:2016
+#: framework/class/widgets.php:2025
+#: framework/class/widgets.php:2077
+msgid "ago"
+msgstr ""
+
+#: framework/class/widgets.php:2075
+msgid "on"
+msgstr ""
+
+#: framework/class/widgets.php:2137
+msgid "Latest Posts"
+msgstr ""
+
+#: framework/class/widgets.php:2141
+msgid "Popular Posts"
+msgstr ""
+
+#: framework/class/widgets.php:2190
+msgid "Recent Testimonials"
+msgstr ""
+
+#: framework/class/widgets.php:2368
+msgid "Twitter"
+msgstr ""
+
+#: framework/class/widgets.php:2392
+msgid "loading..."
+msgstr ""
+
+#: framework/function/breadcrumbs.php:26
+msgid "Home"
+msgstr ""
+
+#: framework/function/breadcrumbs.php:111
+msgid "No Breadcrumbs"
+msgstr ""
+
+#: framework/function/pagination.php:38
+msgid "&lt;"
+msgstr ""
+
+#: framework/function/pagination.php:39
+msgid "&gt;"
+msgstr ""
+
+#: framework/function/single-comment.php:31
+msgid "Reply"
+msgstr ""
+
+#: framework/function/single-comment.php:46
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/function/template-functions.php:304
+#: framework/function/template-functions.php:337
+msgid "by"
+msgstr ""
+
+#: framework/function/template-functions.php:372
+msgid "Comments Off"
+msgstr ""
+
+#: framework/function/template-functions.php:388
+msgid "By"
+msgstr ""
+
+#: framework/function/template-functions.php:459
+#: framework/function/template-functions.php:463
+#: framework/function/template-functions.php:469
+#: framework/function/template-functions.php:473
+#: framework/function/template-functions.php:641
+msgid "Off"
+msgstr ""
+
+#: framework/function/template-functions.php:780
+msgid "More posts"
+msgstr ""
+
+#: framework/function/template-functions.php:782
+msgid "More testimonials"
+msgstr ""
+
+#: framework/function/template-functions.php:784
+msgid "More services"
+msgstr ""
+
+#: framework/function/template-functions.php:791
+msgid "Related"
+msgstr ""
+
+#: framework/function/template-functions.php:891
+msgid "No Related Posts Found"
+msgstr ""
+
+#: framework/function/template-functions.php:893
+msgid "No Related Testimonials Found"
+msgstr ""
+
+#: framework/function/template-functions.php:895
+msgid "No Related Services Found"
+msgstr ""
+
+#: framework/function/template-functions.php:956
+msgid "No Popular Posts Found"
+msgstr ""
+
+#: framework/function/template-functions.php:958
+msgid "No Popular Testimonials Found"
+msgstr ""
+
+#: framework/function/template-functions.php:960
+msgid "No Popular Services Found"
+msgstr ""
+
+#: framework/function/template-functions.php:1017
+msgid "No Latest Posts Found"
+msgstr ""
+
+#: framework/function/template-functions.php:1019
+msgid "No Latest Testimonials Found"
+msgstr ""
+
+#: framework/function/template-functions.php:1021
+msgid "No Latest Services Found"
+msgstr ""
+
+#: framework/function/template-functions.php:1070
+msgid "Unknown type of the video. Check your video link."
+msgstr ""
+
+#: framework/postType/blog/page/fullwidth/aside.php:43
+#: framework/postType/blog/page/fullwidth/quote.php:40
+#: framework/postType/blog/page/sidebar/aside.php:43
+#: framework/postType/blog/page/sidebar/quote.php:40
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
