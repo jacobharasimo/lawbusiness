@@ -7020,3 +7020,6 @@ html.csstransitions .rev_slider_wrapper .tp-rightarrow.default:before {
 
 .bypostauthor,
 .sticky { }
+.gm-style-iw h5{margin-bottom:0;}
+#sidebar #text-3.widget{border-bottom:none;}
+.testimonial  blockquote:before{content:'';}
